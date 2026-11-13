@@ -1,0 +1,15 @@
+.gradle/
+build/
+bin/
+out/
+.idea/
+*.iml
+.DS_Store
+*.wpilog
+*.hoot
+.env
+.env.*
+networktables.json
+simgui-ds.json
+simgui.json
+simgui-window.json
